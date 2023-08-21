@@ -33,4 +33,8 @@
 <br>
 
 <div align="center">
+
+![Jinjung's github stats](https://github-readme-stats.vercel.app/api?username=hereokay&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hereokay)](https://solved.ac/hereokay)
 </div>
