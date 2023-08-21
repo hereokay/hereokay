@@ -1,18 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Wellcome&fontSize=90)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JinJung's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hereokay&show_icons=true&theme=radical)
+<br>
 
-<!--
-**hereokay/hereokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <Strong>☁️SNS List☁️</Strong><br><br>
+    <a href="https://velog.io/@hereokay" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://medium.com/@hereokay88" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://twitter.com/hereokay88" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=Twitter&logoColor=white"/></a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhereokay&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>hereokay88@gmail.com<br>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+    ...
+</p>
+
+<br>
+
+<p align="center">
+    <Strong>⚒️Main Stack⚒️</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+
+<br>
+
+<div align="center">
+</div>
