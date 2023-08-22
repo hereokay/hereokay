@@ -40,8 +40,7 @@
 
 <div align="center">
 
-![Jinjung's github stats](https://github-readme-stats.vercel.app/api?username=hereokay&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hereokay)](https://solved.ac/hereokay)
+![Jinjung's github stats](https://github-readme-stats.vercel.app/api?username=hereokay&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hereokay)](https://solved.ac/hereokay)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 </div>
