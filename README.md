@@ -1,6 +1,8 @@
 <div align="center">
-    
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JinJung's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JinJung's%20GitHub&fontSize=50)
+
+
 </div>
 <br>
 
@@ -39,6 +41,7 @@
 <div align="center">
 
 ![Jinjung's github stats](https://github-readme-stats.vercel.app/api?username=hereokay&show_icons=true)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hereokay)](https://solved.ac/hereokay)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
 </div>
