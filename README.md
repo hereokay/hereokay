@@ -20,8 +20,11 @@
 <br>
 
 <p align="center">
-    BlockChain을 좋아하는 백엔드 개발자입니다 :)
-    새로운것을 경험하고 배우는 것을 좋아합니다.
+    
+    I'm a backend developer who loves BlockChain :)
+    
+    New Challenges Lover
+    
 </p>
 
 <br>
