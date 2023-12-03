@@ -21,9 +21,7 @@
 
 <p align="center">
     
-    I'm a backend developer who loves BlockChain :)
-    
-    New Challenges Lover
+    Backend developer loves BlockChain
     
 </p>
 
