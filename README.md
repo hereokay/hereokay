@@ -21,7 +21,7 @@
 
 <p align="center">
     
-    Backend developer loves BlockChain
+    Backend developer
     
 </p>
 
